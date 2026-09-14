@@ -9,6 +9,13 @@ skills: basics of html, css, js, python, figma
 
 experience: none
 
+code example: 
+'
+function multiply(a, b){
+  a * b
+}
+'
+
 education: not related to programming
 
 russian: native
