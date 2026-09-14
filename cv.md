@@ -17,6 +17,7 @@ function multiply(a, b){
 '
 
 education: not related to programming
+courses: RS School JavaScript Fronted course, Figma Bychkov
 
 russian: native
 english: B2
